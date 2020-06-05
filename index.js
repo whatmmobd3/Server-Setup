@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 
 // DB
 // mongoose.connect("mongodb://localhost:auth/auth");
-mongoose.connect("mongodb://localhost:auth/auth");
+mongoose.connect("mongodb://localhost:27017/mylib");
 
 // App
 app.use(morgan("combined"));
