@@ -1,3 +1,4 @@
 npm i --save express mongoose morgan body-parser
 npm i --save nodemon
 npm i --save mongoose mongodb
+npm i --save bcrypt-nodejs
