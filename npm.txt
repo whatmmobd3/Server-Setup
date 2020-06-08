@@ -3,3 +3,5 @@ npm i --save nodemon
 npm i --save mongoose mongodb
 npm i --save bcrypt-nodejs
 npm i --save jwt-simple
+
+npm i --save passport passport-jwt
