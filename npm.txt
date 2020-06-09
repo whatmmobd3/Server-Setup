@@ -5,3 +5,4 @@ npm i --save bcrypt-nodejs
 npm i --save jwt-simple
 
 npm i --save passport passport-jwt
+npm i --save passport-local
